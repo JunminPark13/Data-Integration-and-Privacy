@@ -8,7 +8,7 @@
 * 공연장 정보와 공연 정보를 Crawling하여 통합된 데이터를 만든다.
 * 공연장 정보(공연장 이름, 객석 규모, 주소, 편의 시설 등), 공연정보(공연이름, 장르, 공연일시 등) 공연예술 통합 전산망(http://www.kopis.or.kr/por/main/main.do)에서 Request, BeutifulSoup 활용하여 Crawling
 * 공연장 주변시설 정보(지하철역, 음식점, 카페 등) 카카오맴 api활용하여 crawling
-* 최종 Integrated Data Structure
+* 최종 Integrated Data Structure</br>
 <img src="/img/data structure.png" width="300" height="300"
 
 ### 개인 프로젝트
